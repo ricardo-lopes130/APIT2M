@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Application\\ApplicationServices",
+    "\\Application\\DTOs",
+    "\\Infrastructure",
+    "\\Infrastructure\\DataBaseConfig",
+    "\\Infrastructure\\ImplementRepositories",
+    "\\Infrastructure\\RabbitMQConfig",
+    "\\Presentation",
+    "\\Presentation\\Controllers"
+  ],
+  "SelectedNode": "\\Presentation\\Controllers\\ProjetosController.cs",
+  "PreviewInSolutionExplorer": false
+}
